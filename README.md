@@ -1,5 +1,44 @@
 # Snake & Ladder
 
+> **A board-game classic defined by chance and changing positions.**
+
+**Classic console C++** · **Board game** · **Algorithm & state practice**
+
+---
+
+## The program
+
+Play a two-player dice game with the original snakes and ladder positions.
+
+**Explore:** Trace dice rolls, snakes, ladders and the winning condition.
+
+## Files
+
+| Path | Purpose |
+|:--|:--|
+| [`SNAKE.CPP`](./SNAKE.CPP) | Original C++ source file |
+| [`docs`](./docs) | Additional project resources |
+| [`run-in-browser.html`](./run-in-browser.html) | Additional project resources |
+
+
+## Running it
+
+Read the C++ entry point in the source file, then compile using an appropriate C++ toolchain. Some original source variants target Turbo C++/DOS and may need compatibility adjustments before modern compilation.
+
+## What to study
+
+- Input validation and console output.
+- State transitions and termination conditions.
+- Porting older compiler-specific code without changing game or business rules.
+
+## Usage boundary
+
+This is an educational console program. Use invented data for testing, not personal records or real financial information.
+
+<details><summary><strong>Original project guide (preserved)</strong></summary>
+
+# Snake & Ladder
+
 Play a two-player dice game with the original snakes and ladder positions.
 
 ## Run in your browser (no setup)
@@ -29,3 +68,9 @@ The previous WebAssembly GitHub Actions workflow is not required for this standa
 ### Note
 
 This repository contains archived, third-party classroom-style C++ examples from a previously supplied collection. Review attribution and redistribution rights before publishing as your own original work.
+
+</details>
+
+---
+
+<sub>Browse [all C++ and engineering repositories](https://github.com/sharanyapal?tab=repositories).</sub>
